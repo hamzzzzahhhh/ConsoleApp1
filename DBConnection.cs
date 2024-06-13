@@ -12,6 +12,8 @@ namespace container //namespace
         {
             string connectionstring = "Server=DESKTOP-MD4N5AM;Database=StallionsDB;Integrated Security=True;";
 
+            Console.WriteLine("Learning DB Get");
+
 
             //now we will create a connection object
 

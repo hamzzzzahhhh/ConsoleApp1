@@ -398,6 +398,7 @@ namespace container
             dBConnection.PutData();
 
             Console.WriteLine("Press X to terminate system...");
+            Console.WriteLine("Press any key to terminate system");
             Console.ReadLine();
         }
     }
