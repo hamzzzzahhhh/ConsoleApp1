@@ -40,6 +40,7 @@ namespace container
                 {
                     connection.Close();
                     Console.WriteLine("Connection Closed");
+                    Console.WriteLine("Connection has been closed");
                 }
             }
         }
